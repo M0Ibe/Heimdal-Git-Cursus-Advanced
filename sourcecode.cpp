@@ -6,7 +6,7 @@ public class Main{
         Init();
 		Run();
     }
-
+// TEST 1 voor merge conflict
     public void Init(){
         std::cout << "Initializing";
     }

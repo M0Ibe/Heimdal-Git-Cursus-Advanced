@@ -9,3 +9,8 @@ Feature Branches:
 Probleem voorkomen ivbm historiek voor merge conflicts:
 
 `git checkout <naam>`
+
+Fastforward merge:
+
+- een merge waarbij je de pointer van de main verplaatst naar de aanpassingen achter jouw commit (gebruikt als er geen aanpassingen zijn op de main branch
+  )
